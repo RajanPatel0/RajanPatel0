@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Rajan Patel</h1>
-<h3 align="center">Aspiring Software Engineer | MERN Stack Developer | ML Enthusiast | Smart India Hackathon Finalist</h3>
+<h1 align="center">Hi👋, I'm Rajan Patel</h1>
+<h3 align="center">Aspiring Software Engineer | MERN Stack Developer | ML Enthusiast </h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/d5dccb5d7c2fbbf4f0fcf65340d8677f.gif" />
 
 - 🔭 Currently building **InVolv** – A Smart Real-Time Inventory & Demand Tracker for Local Stores  
 - ⚙️ Previously worked on: **HerShield**, **GoalPath AI**, **AIntend Solutions**
-- 🌱 Learning: **Machine Learning (IIT-M)**, Advanced **DSA**, and **System Design**
+- 🌱 Learning: **Machine Learning**, Advanced **DSA**, and **System Design**
 - 💬 Ask me about **MERN Stack**, **DSA patterns**, **AI integrations**, **Git/GitHub**
 - 📫 Reach me at: **rkp1505.l@gmail.com**
 - 🧠 Always open to collaborative open-source projects and hackathons
@@ -23,6 +23,7 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 ---
