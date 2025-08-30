@@ -1,5 +1,6 @@
 <h1 align="center">Hi👋, I'm Rajan Patel</h1>
 <h3 align="center">Aspiring Software Engineer | MERN Stack Developer | ML Enthusiast </h3>
+<h2 align="center">Checkout second github at **https://github.com/RajanPatel01** </h2>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/d5dccb5d7c2fbbf4f0fcf65340d8677f.gif" />
 
@@ -23,7 +24,7 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-181717?style=for-the-badge&logo=Postman&logoColor=white"/>
 </p>
 
 ---
